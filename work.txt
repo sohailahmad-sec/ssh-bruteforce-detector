@@ -1,0 +1,10 @@
+Run:  cd E:\ssh_bruteforce_detector
+      python main.py
+
+Test attack: 
+cd E:\ssh_bruteforce_detector
+python mini_ssh_server.py
+
+cd E:\ssh_bruteforce_detector
+python brute_force_test.py
+
